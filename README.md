@@ -77,7 +77,7 @@ Me encuentro buscando prácticas preprofesionales para aplicar los conocimientos
     <div>
       <h3>Tools</h3>
        <p align="center">
-     <img src="	https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff" alt="protoio" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="miro" />&nbsp;&nbsp;
