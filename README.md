@@ -20,7 +20,13 @@ Me encuentro buscando prácticas preprofesionales para aplicar los conocimientos
 - 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing. <br/>
 </p>
 
-<hr>
+
+
+## Education
+
+- 📖 **Ingeniería de Software**\
+📆 2021 - 2025\
+📍 **Universidad Peruana de Ciencias Aplicadas** - Lima, Peru
 
 <section>
 <h2 align="left">🎯 Technical Skills</h2>
