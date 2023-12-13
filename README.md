@@ -74,6 +74,32 @@ Me encuentro buscando prácticas preprofesionales para aplicar los conocimientos
      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />&nbsp;&nbsp;
   </p>
     </div>
+     <div>
+      <h3>IDE's</h3>
+         <p align="center">
+     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij idea" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" alt="rider" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="webstorm" />&nbsp;&nbsp;
+  </p>
+    </div>
+      <div>
+      <h3>Office</h3>
+     <p align="center">
+     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="access" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="office 365" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="powerpoint" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="sharepoint" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi" />&nbsp;&nbsp;
+  </p>
+    </div>
     <div>
       <h3>Tools</h3>
        <p align="center">
@@ -90,18 +116,12 @@ Me encuentro buscando prácticas preprofesionales para aplicar los conocimientos
          <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="sketch" />&nbsp;&nbsp;
   </p>
     </div>
-    
-  <div>
-      <h3>Office</h3>
-     <p align="center">
-     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="access" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="office 365" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="powerpoint" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="sharepoint" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi" />&nbsp;&nbsp;
-  </p>
-    </div>
 </section>
 
+### 📈 &nbsp;&nbsp;Some of my stats are:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valeryayasta" />
+</p>
+
+### ⚒️ &nbsp;&nbsp;My projects:
+Under construction!
